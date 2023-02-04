@@ -41,3 +41,9 @@ setting.json > 下記追加
 windows: ctrl + ,(comma)
 mac: cmd + ,(comma)
 ```
+
+# [tips]
+
+### Readme.md を VsCode でプレビュー
+
+https://techtechmedia.com/readme-preview-vscode/
